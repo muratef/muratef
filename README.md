@@ -12,11 +12,9 @@
 
 ---
 
-### 🚀 Hakkımda
+### 🚀 About Me
 
-Bandırma Onyedi Eylül Üniversitesi'nde **Yönetim Bilişim Sistemleri (YBS)** öğrencisiyim. 
-İş analizi süreçleri, yazılım test metodolojileri ve veri odaklı stratejiler üzerine kendimi geliştiriyorum.
-Teknik gereksinimleri iş çözümlerine dönüştüren bir köprü olma vizyonuyla hareket ediyorum.
+"MIS Student at Bandırma Onyedi Eylül University. Focusing on Business Analysis, Software Testing, and Data-Driven Strategies. Passionate about bridging the gap between technical requirements and business solutions."
 
 ---
 
