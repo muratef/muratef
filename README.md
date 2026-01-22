@@ -20,6 +20,3 @@ Teknik gereksinimleri iş çözümlerine dönüştüren bir köprü olma vizyonu
 
 ---
 
-### 🛠️ Yetkinlikler
-
-![Python](
