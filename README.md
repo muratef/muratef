@@ -1,4 +1,4 @@
-# Hi 
+# Hi Im Murat.
 ![ACADEMIC](https://img.shields.io/badge/ACADEMIC-MIS%20STUDENT-684D95?style=flat-square)
 ![FOCUS](https://img.shields.io/badge/FOCUS-BUSINESS%20ANALYSIS-008080?style=flat-square)
 ![INTEREST](https://img.shields.io/badge/INTEREST-DATA%20SCIENCE-brightgreen?style=flat-square)
